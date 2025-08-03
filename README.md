@@ -24,3 +24,4 @@ A responsive landing page for a saree-selling brand. Built with basic HTML and C
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/saree-selling-website.git
+<img width="1918" height="868" alt="Screenshot 2025-08-03 180317" src="https://github.com/user-attachments/assets/2a099be2-5657-4d34-ac79-f48cfb55c5a2" />
